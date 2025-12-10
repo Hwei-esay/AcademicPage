@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== 覆盖 footer 文字颜色 ===== */
+:root {
+  --global-text-color-light: #000000;   /* 改成你想要的颜色 */
+}
