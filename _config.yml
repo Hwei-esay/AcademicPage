@@ -171,6 +171,8 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _teaching
+  - _talks
   - .asset-cache
   - .bundle
   - .github
